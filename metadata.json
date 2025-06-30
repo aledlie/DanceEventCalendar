@@ -1,0 +1,5 @@
+{
+  "name": "Dance Event Calendar Importer",
+  "description": "An application that finds dance events from DancePlace, structures the data by style, and provides links to add them to your Google Calendar.",
+  "requestFramePermissions": []
+}
