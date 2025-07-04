@@ -1,1 +1,1 @@
-{"root":["./app.tsx","./index.tsx","./types.ts","./vite.config.ts","./components/eventcard.tsx","./components/statusdisplay.tsx","./components/icons.tsx","./services/eventservice.ts","./services/geminiservice.ts","./utils/dateutils.ts"],"version":"5.8.3"}
+{"root":["./app.tsx","./index.tsx","./vite.config.ts","./components/eventcard.tsx","./components/statusdisplay.tsx","./components/icons.tsx","./lib/parser.ts","./pages/index.tsx","./services/eventservice.ts","./services/geminiservice.ts","./types/types.ts","./utils/dateutils.ts"],"version":"5.8.3"}

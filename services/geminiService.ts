@@ -1,5 +1,5 @@
 import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
-import { DanceEvent, GroundingChunk } from '../types';
+import { DanceEvent, GroundingChunk } from '../types/types';
 
 if (!process.env.API_KEY) {
   throw new Error("API_KEY environment variable is not set.");

@@ -1,8 +1,8 @@
 import React, { useState, useCallback } from 'react';
 import { fetchAndProcessEvents } from './services/geminiService';
 import { processEvents } from './services/eventService';
-import { DanceEvent, CategorizedEvents, GroundingChunk } from './types';
-import EventCard from './components/EventCard';
+import { DanceEvent, CategorizedEvents, GroundingChunk } from './types/types';
+import { EventCard } from './components/EventCard';
 import { LogoIcon, SearchIcon } from './components/icons';
 import StatusDisplay from './components/StatusDisplay';
 
